@@ -1,0 +1,11 @@
+C:\code\Prog_Fund\AH_assignment_three\mpls-dog-boarding-hr-payroll-report-program-assignment-3-hueabrw\bin\Debug\netcoreapp3.1\assignment_three.exe
+C:\code\Prog_Fund\AH_assignment_three\mpls-dog-boarding-hr-payroll-report-program-assignment-3-hueabrw\bin\Debug\netcoreapp3.1\assignment_three.deps.json
+C:\code\Prog_Fund\AH_assignment_three\mpls-dog-boarding-hr-payroll-report-program-assignment-3-hueabrw\bin\Debug\netcoreapp3.1\assignment_three.runtimeconfig.json
+C:\code\Prog_Fund\AH_assignment_three\mpls-dog-boarding-hr-payroll-report-program-assignment-3-hueabrw\bin\Debug\netcoreapp3.1\assignment_three.runtimeconfig.dev.json
+C:\code\Prog_Fund\AH_assignment_three\mpls-dog-boarding-hr-payroll-report-program-assignment-3-hueabrw\bin\Debug\netcoreapp3.1\assignment_three.dll
+C:\code\Prog_Fund\AH_assignment_three\mpls-dog-boarding-hr-payroll-report-program-assignment-3-hueabrw\bin\Debug\netcoreapp3.1\assignment_three.pdb
+C:\code\Prog_Fund\AH_assignment_three\mpls-dog-boarding-hr-payroll-report-program-assignment-3-hueabrw\obj\Debug\netcoreapp3.1\assignment_three.csprojAssemblyReference.cache
+C:\code\Prog_Fund\AH_assignment_three\mpls-dog-boarding-hr-payroll-report-program-assignment-3-hueabrw\obj\Debug\netcoreapp3.1\assignment_three.AssemblyInfoInputs.cache
+C:\code\Prog_Fund\AH_assignment_three\mpls-dog-boarding-hr-payroll-report-program-assignment-3-hueabrw\obj\Debug\netcoreapp3.1\assignment_three.AssemblyInfo.cs
+C:\code\Prog_Fund\AH_assignment_three\mpls-dog-boarding-hr-payroll-report-program-assignment-3-hueabrw\obj\Debug\netcoreapp3.1\assignment_three.dll
+C:\code\Prog_Fund\AH_assignment_three\mpls-dog-boarding-hr-payroll-report-program-assignment-3-hueabrw\obj\Debug\netcoreapp3.1\assignment_three.pdb

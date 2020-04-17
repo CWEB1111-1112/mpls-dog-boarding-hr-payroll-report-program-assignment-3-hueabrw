@@ -13,6 +13,7 @@ namespace assignment_three
         static void Main(string[] args)
         {
             //Declarations
+            Console.WriteLine("Hello world!");
         }
     }
 }
